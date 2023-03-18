@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+    <problem operation="add">
+        <num1>5.0</num1>
+        <num2>3.0</num2>
+        <result></result>
+    </problem>
+    <problem operation="add">
+        <num1>2.0</num1>
+        <num2>5.0</num2>
+        <result></result>
+    </problem>
+    <problem operation="add">
+        <num1>10.0</num1>
+        <num2>7.5</num2>
+        <result></result>
+    </problem>
+    <problem operation="add">
+        <num1>3.0</num1>
+        <num2>2.0</num2>
+        <result></result>
+    </problem>
+</problems>
