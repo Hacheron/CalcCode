@@ -49,7 +49,6 @@ foreach my $problem (@{$xml->{problem}}) {
 }
 
 
-
 # Report the overall results
 print "Total problems: $num_problems\n";
 print "Number correct: $num_correct\n";

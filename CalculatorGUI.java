@@ -178,7 +178,6 @@ public class CalculatorGUI extends JFrame implements ActionListener {
             }
         }
     }
-
     public static void main(String[] args) {
         CalculatorGUI calculator = new CalculatorGUI();
         calculator.setVisible(true);
