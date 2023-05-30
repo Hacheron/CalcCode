@@ -26,12 +26,12 @@ foreach my $problem (@{$xml->{problem}}) {
     my $actual_result;
     if ($operator eq 'add') {
         $actual_result = $num1 + $num2;
-#    } elsif ($operator eq 'subtract') {
-#        $actual_result = $num1 - $num2;
-#    } elsif ($operator eq 'multiply') {
-#        $actual_result = $num1 * $num2;
-#    } elsif ($operator eq 'divide') {
-#        $actual_result = $num1 / $num2;
+    } elsif ($operator eq 'subtract') {
+        $actual_result = $num1 - $num2;
+    } elsif ($operator eq 'multiply') {
+        $actual_result = $num1 * $num2;
+    } elsif ($operator eq 'divide') {
+        $actual_result = $num1 / $num2;
     }
 
     # Check if the answer is correct
