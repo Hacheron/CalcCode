@@ -53,11 +53,11 @@ public class CalculatorGUI extends JFrame implements ActionListener {
         contentPane.add(new JLabel("Operation:"));
         contentPane.add(addButton);
         contentPane.add(new JLabel(""));
-        //contentPane.add(subtractButton);
-        //contentPane.add(new JLabel(""));
-        //contentPane.add(multiplyButton);
-        //contentPane.add(new JLabel(""));
-        //contentPane.add(divideButton);
+        contentPane.add(subtractButton);
+        contentPane.add(new JLabel(""));
+        contentPane.add(multiplyButton);
+        contentPane.add(new JLabel(""));
+        contentPane.add(divideButton);
         contentPane.add(new JLabel("Result:"));
         contentPane.add(resultField);
         contentPane.add(loadButton);
